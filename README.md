@@ -1,3 +1,21 @@
+> **Warning!** 
+>
+> Boxy Theme will be deprecated in favor of the [DA UI](https://packagecontrol.io/packages/DA%20UI), once it reaches to stable version 1.0.0.
+>
+> DA UI engine allows you to do a lot more than Boxy settings abuse. However some important features such as bar or alternative icons are missing currently. 
+> Some of them will be added later, others – not. Feel free to file your issues and suggestions [here](https://github.com/ihodev/sublime-da-ui/issues).
+> 
+> There will be the last Boxy release, which will contain existing PRs, some fixes to support next version of the A File Icon and the announcement of the DA UI.
+> 
+> Also later this week I'll release DA CS package which includes dozens of popular color schemes those respects DA UI guidelines, including all Boxy ones. 
+> Syntax highlighting have changed and the number of accent colors was reduced to six. But overall they will be a lot better and finally customizable.
+>
+> I've decided that everyone who supported Boxy Theme at Patreon before *2017-09-26* will get [DA UI](https://packagecontrol.io/packages/DA%20UI) for free 😉
+>
+> **A big thank you for being part of this project, for the kind words, contributions and your support!**
+
+***
+
 <p align="center"><img src="https://raw.githubusercontent.com/ihodev/sublime-boxy-assets/master/assets/readme/3.2.0/name.gif" alt="BOXY"></p>
 
 <p align="center">
@@ -5,7 +23,6 @@
   <a href="https://packagecontrol.io/packages/Boxy%20Theme"><img src="https://img.shields.io/packagecontrol/dt/Boxy%20Theme.svg?maxAge=3600&style=flat-square" alt="Downloads"></a>
   <a href="https://travis-ci.org/ihodev/sublime-boxy"><img src="https://img.shields.io/travis/ihodev/sublime-boxy.svg?maxAge=3600&style=flat-square" alt="Build Status"></a>
   <a href="https://twitter.com/intent/tweet?hashtags=Boxy%2CTheme%2CColorScheme%2CSublimeText&amp;ref_src=twsrc%5Etfw&amp;text=The%20most%20hackable%20theme%20%E2%9D%A4%20Sublime%20Text%203&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2FBoxy%2520Theme&amp;via=ihodev" title="Share via Twitter" target="_blank"><img src="https://img.shields.io/badge/share-twitter-1DA1F2.svg?maxAge=2592000&style=flat-square" alt="Twitter"></a>
-  <a href="https://www.patreon.com/ihodev" title="Donate with Patreon"><img src="https://img.shields.io/badge/donate-patreon-orange.svg?maxAge=2592000&style=flat-square" alt="Make a donation at patreon.com"></a>
 </p>
 
 ***
@@ -376,13 +393,6 @@ Installed packages:
 * [Boxy Theme Addon - Widget Font Size][addon-widget-font-size]
 * [PlainNotes][plain-notes]
 
-***
-
-### Share The Love
-
-I've put a lot of time and effort into making `Boxy Theme` awesome. If you love it, you can buy me a coffee. Every cup helps! I promise it will be a good investment 😉
-
-**Donate with:** [Patreon][patreon].
 
 <!-- Links -->
 
