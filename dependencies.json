@@ -5,7 +5,8 @@
       "python-markdown",
       "python-jinja2",
       "markupsafe",
-      "pygments"
+      "pygments",
+      "pyyaml"
     ]
   }
 }
